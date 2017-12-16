@@ -1,12 +1,14 @@
 body {
     background-color: rgb(233, 233, 233);
 }
+
 .Container {
     width: 700px;
     height: 100%;
     margin: auto;
     padding-top: 60px;
 }
+
 .Count {
     font-size: 19em;
     display: inline-block;
