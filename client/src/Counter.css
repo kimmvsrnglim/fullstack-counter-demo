@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(233, 233, 233);
+}
+.Container {
+    width: 700px;
+    height: 100%;
+    margin: auto;
+    padding-top: 60px;
+}
+.Count {
+    font-size: 19em;
+    font-family: georgia;
+    display: inline-block;
+    top: 500px;
+    width: 375px;
+    height: 375px;
+    border: 10px solid rgba(154, 154, 154, 0.742);
+    border-radius: 400px;
+    color: rgb(245, 126, 79);
+}
+
+.Btn {
+    padding-top: 2em;
+}
+
+button {
+    font-size: 3em;
+    background-color: rgba(221, 221, 221, 0.564);
+    color: palevioletred;
+    width: 175px;
+    border: 2px dashed rgb(186, 186, 186);
+    border-radius: 50px;
+    margin-right: .3em;
+    margin-left: 1em;
+    display: inline-block;
+    cursor: pointer;
+}
